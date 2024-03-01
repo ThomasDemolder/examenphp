@@ -1,0 +1,14 @@
+{
+    "name": "examenweb/projet",
+    "description": "Projet d'examen web dev",
+    "type": "project",
+    "license": "apache2.0",
+    "authors": [
+        {
+            "name": "Thomas Demolder",
+            "email": "thomasdemolder@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

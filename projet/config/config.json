@@ -1,0 +1,14 @@
+{
+    "bdd" : 
+    {
+        "serveur" : "localhost",
+        "utilisateur" : "root",
+        "motDePasse" : "",
+        "bdd" : "bdd_projet_cms"
+    },
+    "autoloader" :
+    {
+        "App\\" : "app/",
+        "Core\\" : "core/"
+    }
+}

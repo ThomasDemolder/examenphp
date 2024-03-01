@@ -1,0 +1,12 @@
+[
+    {"japonais": "Konnichiwa", "francais": "Bonjour"},
+    {"japonais": "Sayonara", "francais": "Au revoir"},
+    {"japonais": "Arigato", "francais": "Merci"},
+    {"japonais": "Sumimasen", "francais": "Excusez-moi"},
+    {"japonais": "Ogenki desu ka", "francais": "Comment ça va ?"},
+    {"japonais": "Hai", "francais": "Oui"},
+    {"japonais": "Iie", "francais": "Non"},
+    {"japonais": "Ohayou", "francais": "Bonjour (matin)"},
+    {"japonais": "Konbanwa", "francais": "Bonsoir"},
+    {"japonais": "Oyasumi", "francais": "Bonne nuit"}
+]
